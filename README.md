@@ -15,7 +15,7 @@ esta por encima o por debajo de 6 y por ultimo se genera un grafico con los valo
 Usando la desviacion estandar y la media se puede usar la teoria de la distribucion normal y definir valores
 limites superiores e inferiores para establecer como valores atipicos aquellos que pasen estos limites.
 
---reto-prediccion--
+--reto-prediccion.py--
 Integrando algo de Inteligencia Artificial se entreno un pequeño modelo para predecir el proximo valor de 
 venta en la serie.
 
